@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "91007118929",
+    "firebase_url": "https://andre-project-51a05-default-rtdb.firebaseio.com",
+    "project_id": "andre-project-51a05",
+    "storage_bucket": "andre-project-51a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91007118929:android:a24aa4b1aaf8c894c7d270",
+        "android_client_info": {
+          "package_name": "com.example.andre_uasakb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91007118929-7ep71tnn6vmb6rp2lposclegh0j1847v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOuFQFmksLwmsNypx69mXMVPti95k2UpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91007118929-7ep71tnn6vmb6rp2lposclegh0j1847v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
